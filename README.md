@@ -3,10 +3,10 @@ E-Yuran PPTT is a resident fee payment system designed for the residents of Trop
 
 ### Features:
 
-User-friendly Interface: Built using Bootstrap to ensure a responsive and accessible design, making it easy for residents to navigate and complete transactions.
-Secure Payment Processing: Integrated with ToyyibPay for secure and efficient payment processing, ensuring all transactions are conducted safely.
-Payment History Tracking: Allows residents to view their payment history, helping them keep track of their expenses.
-Administrative Dashboard: Provides administrators with tools to manage resident accounts, monitor payments, and generate reports.
+- User-friendly Interface: Built using Bootstrap to ensure a responsive and accessible design, making it easy for residents to navigate and complete transactions.
+- Secure Payment Processing: Integrated with ToyyibPay for secure and efficient payment processing, ensuring all transactions are conducted safely.
+- Payment History Tracking: Allows residents to view their payment history, helping them keep track of their expenses.
+- Administrative Dashboard: Provides administrators with tools to manage resident accounts, monitor payments, and generate reports.
 
 ### Technology Stack:
 
