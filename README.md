@@ -10,9 +10,9 @@ E-Yuran PPTT is a resident fee payment system designed for the residents of Trop
 
 ### Technology Stack:
 
-#### Frontend: Bootstrap
-#### Backend: Laravel
-#### Payment Gateway: ToyyibPay
+- Frontend: Bootstrap
+- Backend: Laravel
+- Payment Gateway: ToyyibPay
 
 This system was developed to improve the payment process for the residents of Tropical Park, providing a convenient and reliable platform for fee management.
 
